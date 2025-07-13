@@ -14,3 +14,8 @@ class DataValidationConfig:
     unzip_data_dir: str
     STATUS_FILE: str
     all_schema: dict  # ✅ Add this line
+
+@dataclass
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
