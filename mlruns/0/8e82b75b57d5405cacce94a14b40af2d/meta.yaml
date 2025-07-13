@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/END-TO-END%20PROJECTS/DataScience_Project1/DataScience_Project1/mlruns/0/8e82b75b57d5405cacce94a14b40af2d/artifacts
+end_time: 1752438796625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e82b75b57d5405cacce94a14b40af2d
+run_name: likeable-owl-96
+run_uuid: 8e82b75b57d5405cacce94a14b40af2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752438787670
+status: 3
+tags: []
+user_id: rhitwik.2005
