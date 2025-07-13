@@ -1,1 +1,254 @@
 [2025-07-13 01:50:44,605: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 03:29:21,246: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:29:21,259: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:29:21,270: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:29:21,272: INFO: common: created directory at: artifacts]
+[2025-07-13 03:34:24,530: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:34:24,533: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:34:24,535: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:34:24,538: INFO: common: created directory at: artifacts]
+[2025-07-13 03:34:24,544: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:34:37,907: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:34:37,910: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:34:37,912: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:34:37,914: INFO: common: created directory at: artifacts]
+[2025-07-13 03:34:37,916: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:36:35,268: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:36:35,271: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:36:35,273: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:36:35,275: INFO: common: created directory at: artifacts]
+[2025-07-13 03:36:35,276: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:36:45,730: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:36:45,732: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:36:45,733: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:36:45,736: INFO: common: created directory at: artifacts]
+[2025-07-13 03:36:45,737: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:38:08,487: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:38:08,490: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:38:08,491: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:38:08,494: INFO: common: created directory at: artifacts]
+[2025-07-13 03:38:08,495: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:38:16,511: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:38:16,513: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:38:16,515: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:38:16,517: INFO: common: created directory at: artifacts]
+[2025-07-13 03:38:16,519: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:44:01,403: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:44:01,405: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:44:01,407: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:44:01,408: INFO: common: created directory at: artifacts]
+[2025-07-13 03:44:01,410: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:44:56,981: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:44:56,982: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:44:56,982: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:44:56,986: INFO: common: created directory at: artifacts]
+[2025-07-13 03:44:56,987: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:45:01,391: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:45:01,394: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:45:01,396: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:45:01,397: INFO: common: created directory at: artifacts]
+[2025-07-13 03:45:01,399: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:46:03,180: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:46:03,184: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:46:03,187: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:46:03,190: INFO: common: created directory at: artifacts]
+[2025-07-13 03:46:03,192: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:48:55,407: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 03:48:55,410: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 03:48:55,414: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 03:48:55,415: INFO: common: created directory at: artifacts]
+[2025-07-13 03:48:55,417: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 03:48:55,418: INFO: 2281498944: File already exists]
+[2025-07-13 03:49:23,804: INFO: 1771098451: ✅ Now logging will work!]
+[2025-07-13 12:06:54,930: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:06:54,931: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:06:54,931: ERROR: main: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath']
+Traceback (most recent call last):
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\pipeline\data_ingestion_pipeline.py", line 11, in initiate_data_ingestion
+    config = ConfigurationManager()
+TypeError: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath'
+[2025-07-13 12:15:03,942: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:15:03,943: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:15:03,943: ERROR: main: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath']
+Traceback (most recent call last):
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\pipeline\data_ingestion_pipeline.py", line 12, in initiate_data_ingestion
+    config = ConfigurationManager()
+TypeError: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath'
+[2025-07-13 12:17:26,919: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:17:26,919: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:17:26,920: ERROR: main: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath']
+Traceback (most recent call last):
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\pipeline\data_ingestion_pipeline.py", line 12, in initiate_data_ingestion
+    config = ConfigurationManager()
+TypeError: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath'
+[2025-07-13 12:19:58,910: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:19:58,911: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:19:58,912: ERROR: main: 'NoneType' object has no attribute 'local_data_file']
+Traceback (most recent call last):
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\pipeline\data_ingestion_pipeline.py", line 19, in initiate_data_ingestion
+    data_ingestion.download_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\components\data_ingestion.py", line 15, in download_file
+    if not os.path.exists(self.config.local_data_file):
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'local_data_file'
+[2025-07-13 12:26:02,599: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:26:02,606: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:26:02,622: ERROR: main: Argument path_to_yaml of type <class 'str'> to <function read_yaml at 0x0000023431B6B600> does not match annotation type <class 'pathlib._local.Path'>]
+Traceback (most recent call last):
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\pipeline\data_ingestion_pipeline.py", line 12, in initiate_data_ingestion
+    config = ConfigurationManager(
+    config_filepath="config/config.yaml",
+    params_filepath="params.yaml",
+    schema_filepath="schema.yaml"
+    )
+  File "D:\END-TO-END PROJECTS\DataScience_Project1\DataScience_Project1\src\Data_science_project\config\configuration.py", line 10, in __init__
+    self.config = read_yaml(config_filepath)
+                  ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "D:\ANACONDA\Lib\site-packages\ensure\main.py", line 870, in __call__
+    raise EnsureError(msg.format(arg=arg, f=self.f, t=templ, valt=type(value)))
+ensure.main.EnsureError: Argument path_to_yaml of type <class 'str'> to <function read_yaml at 0x0000023431B6B600> does not match annotation type <class 'pathlib._local.Path'>
+[2025-07-13 12:28:10,802: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 12:28:10,802: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 12:28:10,806: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 12:28:10,807: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 12:28:10,809: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 12:28:10,811: INFO: common: created directory at: artifacts]
+[2025-07-13 12:28:10,813: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 12:28:12,038: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DF34:34F850:147104:466A4F:68735902
+Accept-Ranges: bytes
+Date: Sun, 13 Jul 2025 06:58:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10240-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1752389891.732382,VS0,VE229
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 73c6e5d4262eb220bb5879d6834d5647f82a59de
+Expires: Sun, 13 Jul 2025 07:03:10 GMT
+Source-Age: 0
+
+]
+[2025-07-13 12:28:12,084: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-07-13 13:30:45,551: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:30:45,557: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:30:45,571: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:30:45,572: INFO: common: created directory at: artifacts]
+[2025-07-13 13:32:16,076: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:32:16,080: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:32:16,089: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:32:16,097: INFO: common: created directory at: artifacts]
+[2025-07-13 13:32:16,097: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:34:32,930: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:34:32,939: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:34:32,944: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:34:32,949: INFO: common: created directory at: artifacts]
+[2025-07-13 13:34:32,950: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:41:38,131: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:41:38,138: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:41:38,146: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:41:38,150: INFO: common: created directory at: artifacts]
+[2025-07-13 13:41:38,152: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:41:53,333: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:41:53,336: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:41:53,344: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:41:53,349: INFO: common: created directory at: artifacts]
+[2025-07-13 13:41:53,352: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:49:45,923: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:49:45,925: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:49:45,927: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:49:45,928: INFO: common: created directory at: artifacts]
+[2025-07-13 13:49:45,928: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:49:50,648: INFO: utils: NumExpr defaulting to 12 threads.]
+[2025-07-13 13:49:54,725: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:49:54,733: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:49:54,741: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:49:54,741: INFO: common: created directory at: artifacts]
+[2025-07-13 13:49:54,746: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:49:58,767: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:49:58,771: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:49:58,777: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:49:58,777: INFO: common: created directory at: artifacts]
+[2025-07-13 13:49:58,785: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:55:11,799: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:55:11,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:55:11,803: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:55:11,803: INFO: common: created directory at: artifacts]
+[2025-07-13 13:55:11,804: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:56:41,320: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:56:41,321: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:56:41,324: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:56:41,325: INFO: common: created directory at: artifacts]
+[2025-07-13 13:56:41,325: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 13:56:41,615: INFO: utils: NumExpr defaulting to 12 threads.]
+[2025-07-13 13:56:49,784: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 13:56:49,788: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 13:56:49,795: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 13:56:49,798: INFO: common: created directory at: artifacts]
+[2025-07-13 13:56:49,804: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 14:01:41,750: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 14:01:41,754: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 14:01:41,757: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 14:01:41,762: INFO: common: created directory at: artifacts]
+[2025-07-13 14:01:41,762: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 14:03:26,477: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 14:03:26,497: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 14:03:26,497: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 14:03:26,497: INFO: common: created directory at: artifacts]
+[2025-07-13 14:03:26,497: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 14:13:05,588: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 14:13:05,589: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 14:13:05,598: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 14:13:05,598: INFO: common: created directory at: artifacts]
+[2025-07-13 14:13:05,604: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 14:31:34,941: INFO: main: Welcome to our custom logging Data Science]
+[2025-07-13 14:31:34,941: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-07-13 14:31:34,945: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 14:31:34,946: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 14:31:34,948: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 14:31:34,949: INFO: common: created directory at: artifacts]
+[2025-07-13 14:31:34,949: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-13 14:31:34,950: INFO: data_ingestion: File already exists]
+[2025-07-13 14:31:34,954: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-07-13 14:31:34,955: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-07-13 14:31:34,958: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-13 14:31:34,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-13 14:31:34,962: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-13 14:31:34,963: INFO: common: created directory at: artifacts]
+[2025-07-13 14:31:34,964: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-13 14:31:35,266: INFO: utils: NumExpr defaulting to 12 threads.]
+[2025-07-13 14:31:35,781: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]

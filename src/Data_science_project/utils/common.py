@@ -1,6 +1,6 @@
 import os
 import yaml
-from Data_science_project import logger
+from src.Data_science_project import logger
 import json
 import joblib
 from ensure import ensure_annotations
