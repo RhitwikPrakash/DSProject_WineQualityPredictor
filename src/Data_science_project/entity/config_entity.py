@@ -19,3 +19,14 @@ class DataValidationConfig:
 class DataTransformationConfig:
     root_dir: Path
     data_path: Path
+
+@dataclass
+class ModelTrainerConfig:
+    root_dir: Path
+    train_data_path: Path
+    test_data_path: Path
+    model_name: str
+    # In the initial stages, "params.yaml" file had only - key:value. Replace it with ElasticNet:  alpha: 0.2, l1_ratio: 0.1
+    alpha: float   # Some parameters will be specified there, for ElasticNet ML Algorithm
+    l1_ratio: float   
+    target_column: str
