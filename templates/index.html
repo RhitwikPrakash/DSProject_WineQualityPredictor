@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wine Quality Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 700px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+            border-radius: 12px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            text-align: center;
+            font-size: 16px;
+            color: #666;
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #444;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .form-group {
+            width: 48%;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-size: 14px;
+            color: #444;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            box-sizing: border-box;
+        }
+
+        .form-row-last {
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .form-row-last input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .form-row-last input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        @media screen and (max-width: 600px) {
+            .form-group {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Wine Quality Prediction</h1>
+        <p>A Wine Quality Checking Web App</p>
+        <h2>Please Fill The Information</h2>
+        <form action="/predict" method="post">
+
+            <div class="form-group">
+                <label for="fixed_acidity">Fixed Acidity:</label>
+                <input type="text" name="fixed_acidity" id="fixed_acidity" placeholder="fixed_acidity" required>
+            </div>
+
+            <div class="form-group">
+                <label for="volatile_acidity">Volatile Acidity:</label>
+                <input type="text" name="volatile_acidity" id="volatile_acidity" placeholder="volatile_acidity" required>
+            </div>
+
+            <div class="form-group">
+                <label for="citric_acid">Citric Acid:</label>
+                <input type="text" name="citric_acid" id="citric_acid" placeholder="citric_acid" required>
+            </div>
+
+            <div class="form-group">
+                <label for="residual_sugar">Residual Sugar:</label>
+                <input type="text" name="residual_sugar" id="residual_sugar" placeholder="residual_sugar" required>
+            </div>
+
+            <div class="form-group">
+                <label for="chlorides">Chlorides:</label>
+                <input type="text" name="chlorides" id="chlorides" placeholder="chlorides" required>
+            </div>
+
+            <div class="form-group">
+                <label for="free_sulphur_dioxide">Free Sulphur Dioxide:</label>
+                <input type="text" name="free_sulphur_dioxide" id="free_sulphur_dioxide" placeholder="free_sulphur_dioxide" required>
+            </div>
+
+            <div class="form-group">
+                <label for="total_sulphur_dioxide">Total Sulphur Dioxide:</label>
+                <input type="text" name="total_sulphur_dioxide" id="total_sulphur_dioxide" placeholder="total_sulphur_dioxide" required>
+            </div>
+
+            <div class="form-group">
+                <label for="density">Density:</label>
+                <input type="text" name="density" id="density" placeholder="density" required>
+            </div>
+
+            <div class="form-group">
+                <label for="pH">pH:</label>
+                <input type="text" name="pH" id="pH" placeholder="pH" required>
+            </div>
+
+            <div class="form-group">
+                <label for="sulphates">Sulphates:</label>
+                <input type="text" name="sulphates" id="sulphates" placeholder="sulphates" required>
+            </div>
+
+            <div class="form-group">
+                <label for="alcohol">Alcohol:</label>
+                <input type="text" name="alcohol" id="alcohol" placeholder="alcohol" required>
+            </div>
+
+            <div class="form-row-last">
+                <input type="submit" value="Predict">
+            </div>
+        </form>
+    </div>
+</body>
+</html>
